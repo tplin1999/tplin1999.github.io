@@ -43,7 +43,6 @@ ansible-playbook autoware.dev_env.install_dev_env --tags artifacts
 ```
 
 5. 試著開啟 Autoware - Planning Simulator
-
 ```bash
 xhost +local:docker
 
