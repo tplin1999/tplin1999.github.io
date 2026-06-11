@@ -2,7 +2,7 @@
 title: Autoware 安裝教學
 date: 2026-05-26 12:00:00 +0800
 categories: [Autoware, Installation]
-tags: [Autoware, Docker, Installation, ROS2]
+tags: [Autoware, Docker, Installation]
 ---
 
 [Autoware 官方安裝教學](https://autowarefoundation.github.io/autoware-documentation/main/installation/#architecture) 提出了3種不同的安裝方法，
